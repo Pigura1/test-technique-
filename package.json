@@ -1,0 +1,11 @@
+{
+  "name": "warningstripes",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Pigura1/test-technique-",
+  "author": "Victor Cuvilly <C.victor2006@laposte.net>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pigura1/test-technique-"
+  },
+  "license": "MIT"
+}
